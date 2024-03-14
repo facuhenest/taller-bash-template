@@ -5,7 +5,7 @@ Your task is to create a Bash script named `my_directory.sh`, that generates a c
 The script should create directories and organize them according to the structure outlined below.
 
 The file structure should reflect a typical user's organization of files and directories:
-
+```
 ~/
 ├── projects/
 │   ├── Austral
@@ -27,6 +27,6 @@ The file structure should reflect a typical user's organization of files and dir
 ├── Sandbox/
 │   ├── README.txt
 └── README.txt
-
+```
 
 Optional: generate files inside those folders in the same script. 
