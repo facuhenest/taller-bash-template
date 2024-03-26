@@ -1,0 +1,38 @@
+mkdir -p Projects
+mkdir -p Installers
+mkdir -p Downloads
+mkdir -p Documents
+mkdir -p Music
+mkdir -p Video
+mkdir -p Sandbox
+touch README.txt
+
+cd Projects
+mkdir -p Austral
+mkdir -p Freelance 
+mkdir -p Research
+
+cd Austral 
+mkdir -p Ingenieria 
+mkdir -p Talleres
+
+cd Ingenieria
+mkdir -p 1
+mkdir -p 2
+mkdir -p 3
+mkdir -p 4
+mkdir -p 5
+
+cd ..
+cd
+cd ..
+
+cd Video
+mkdir -p 2023
+
+cd ••
+
+cd Sandbox
+touch README. txt
+
+cd ..
